@@ -1,0 +1,18 @@
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\bin\Debug\Soccer Game.exe.config
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\bin\Debug\Soccer Game.exe
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\bin\Debug\Soccer Game.pdb
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\obj\Debug\Soccer Game.csprojResolveAssemblyReference.cache
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\obj\Debug\Soccer_Game.Form1.resources
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\obj\Debug\Soccer_Game.Properties.Resources.resources
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\obj\Debug\Soccer Game.csproj.GenerateResource.Cache
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\obj\Debug\Soccer Game.exe
+c:\users\zia\documents\visual studio 2017\Projects\Soccer Game\obj\Debug\Soccer Game.pdb
+D:\Other Games\VS Games\Soccer Game\bin\Debug\Soccer Game.exe.config
+D:\Other Games\VS Games\Soccer Game\obj\Debug\Soccer Game.exe
+D:\Other Games\VS Games\Soccer Game\obj\Debug\Soccer Game.pdb
+D:\Other Games\VS Games\Soccer Game\bin\Debug\Soccer Game.exe
+D:\Other Games\VS Games\Soccer Game\bin\Debug\Soccer Game.pdb
+D:\Other Games\VS Games\Soccer Game\obj\Debug\Soccer Game.csprojResolveAssemblyReference.cache
+D:\Other Games\VS Games\Soccer Game\obj\Debug\Soccer_Game.Form1.resources
+D:\Other Games\VS Games\Soccer Game\obj\Debug\Soccer_Game.Properties.Resources.resources
+D:\Other Games\VS Games\Soccer Game\obj\Debug\Soccer Game.csproj.GenerateResource.Cache
