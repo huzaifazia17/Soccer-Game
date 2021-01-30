@@ -1,8 +1,3 @@
-﻿//Lleyton
-//ICS 3U1
-//Final game
-//June 17, 2019
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
